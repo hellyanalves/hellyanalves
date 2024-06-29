@@ -1,10 +1,10 @@
 # hellyanalves
 
-### Back End Developer
+### Software Developer
 
-- 🔭 I’m currently working with: Clojure
+- 🔭 I’m currently working with: Javascript / Angular
 
-- 🌱 I’m currently learning: Javascript / React 
+- 🌱 I’m currently learning:  Javascript / React 
 
 - 📫 How to reach me: https://www.linkedin.com/in/hellyanalves/
 
